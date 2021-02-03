@@ -1,93 +1,93 @@
-ACCOUNT_INFO_BAD_ID: Wrong account login.
-ACT4_CHANNEL_OFFLINE: Act.4 Channel is Offline
-ACT4_CHATMESSAGE_PVP_ANGELS: angels
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
-ACT4_CHATMESSAGE_PVP_DEMONS: demons
-ACT4_CHATMESSAGE_PVP_KILL: '{1} defeated a guardian of {0}.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: You need a family to join the dungeon!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entering the dungeon will cost you {0} reputation points. Do you want to enter?
-ACT4_DUNGEON_REVIVAL_DIALOG: Reviving here will cost you {0} reputation points. If you cancel, you will be teleported to the start of the dungeon. Do you wish to respawn here?
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room has been closed.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss has been defeated!
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room is now open.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Dungeon gate is now open near the central boundary tower in Bitoren Tundra!
-ACT4_NEED_FACTION: ACT4 bisogna di una fazione.
-ACT4_SHOUTMESSAGE_CAMP_ANGELS: Angels Camp
-ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju is dead!
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju died
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
-ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
+ACCOUNT_INFO_BAD_ID: Account errato.
+ACT4_CHANNEL_OFFLINE: Il canale Act.4 è Offline
+ACT4_CHATMESSAGE_PVP_ANGELS: angelo
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato ucciso da un guardiano {0}.'
+ACT4_CHATMESSAGE_PVP_DEMONS: demone
+ACT4_CHATMESSAGE_PVP_KILL: '{1} sconfitto un guardiano {0}.'
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Hai bisogno di una famiglia per partecipare alla spedizione!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Far parte della spedizione ti costerà {0} punti reputazione. Vuoi partecipare?
+ACT4_DUNGEON_REVIVAL_DIALOG: Rinascere qui ti costerà {0} punti reputazione. Altrimenti, sarai teletrasportato all'inizio. Vuoi rinascere qui?
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La porta del Boss si è chiusa.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Il Boss è stato sconfitto!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La porta del Boss è ora aperta.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Il portale per la spedizione si è aperto vicino alla torre centrale della Tundra di Bitoren!
+ACT4_NEED_FACTION: Solo coloro che hanno ricevuto il potere protettivo possono accedere alla Corona di Ghiaccio.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campo base degli Angeli
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campo base dei Demoni
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju è morto!
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju è scomparso
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} ha evocato Lord Mukraju!'
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: Amministratore
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-ARENA_INFO_ASK_ENTER: Do you want to enter the individual arena? It will cost you {0} gold.
-BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: You already have a Cuarry Bank Debit Card in your equipment.
-BANK_DIALOG_ASK_DEPOSIT: Do you want to deposit {0}000 gold to your bank?
-BANK_DIALOG_ASK_WITHDRAW: Do you want to withdraw {0}000 gold from your bank account?
-BANK_INFO_NOT_ENOUGH_FUNDS: Not enough funds.
-BANK_INFO_TOO_MUCH_GOLD: You have too much gold!
-BANK_LOG_OPEN_BANK: Welcome to the bank! What may I help you with?
-BANK_LOG_WITHDRAW_BANK: '{0}000 gold withdrawn.'
-BANK_MESSAGE_BALANCE: You have {0} gold in your bank.
-BANK_MESSAGE_DEPOSIT: Deposited {0}000 gold in your bank.
-BANK_MESSAGE_MAX_GOLD_REACHED: Maximum amount of gold in bank reached!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Exceeding funds sent to the bank.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Item added to NosBaazar.
-BAZAAR_INFO_ITEM_CHANGED: Purchase impossible, item sold or price changed.
-BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar is under maintenance.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
-BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds limit.
-BAZAAR_INFO_RESYNC: Item price change failed. Try again.
-BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
-BLACKLIST_INFO_ADDED: Player added to blacklist!
-BLACKLIST_INFO_BLOCKED: This player has blocked you!
-BLACKLIST_INFO_BLOCKING: You have blocked this player!
-BLACKLIST_INFO_DELETED: Player deleted from blacklist!
-BUFF_CHATMESSAGE_EFFECT_RESISTANCE: No effect because of immunity.
-BUFF_CHATMESSAGE_EFFECT_TERMINATED: You have lost the {0} effect.
-BUFF_CHATMESSAGE_SIDE_EFFECTS: Side effects of {0} have started.
-BUFF_CHATMESSAGE_UNDER_EFFECT: You are under the effect of {0}
-CELLON_SHOUTMESSAGE_FAIL: The Cellon has disappeared because you failed to add options.
-CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: The Cellon level too high for this accessory.
-CELLON_SHOUTMESSAGE_OPTIONS_FULL: The accessory slots are already full!
-CELLON_SHOUTMESSAGE_SUCCESS: Option added.
-CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
-CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
-CLASS_NAME_ADVENTURER: Adventurer
-CLASS_NAME_ARCHER: Archer
-CLASS_NAME_MAGE: Mage
-CLASS_NAME_MARTIAL_ARTIST: Martial Artist
-CLASS_NAME_SWORDSMAN: Swordsman
-COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'You changed your language to:'
-COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Your current language is
-COMMANDS_CHATMESSAGE_AVAILABLE: 'Available commands:'
-COMMANDS_CHATMESSAGE_HELP: '[Help command]'
-COMMANDS_CHATMESSAGE_UNDOCUMENTED: Undocummented.
-COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
-COMMEND_CHATMESSAGE_COOLDOWN: You can commend only one player per day.
-COMMEND_CHATMESSAGE_GIVEN: Player {0} has been commended.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can commend someone.
-COMMEND_CHATMESSAGE_NOT_MINLVL: You can only commend someone if you have reached 30Lv.
-COMMEND_CHATMESSAGE_RECEIVED: Player {0} has commended you.
-DIGNITY_CHATMESSAGE_LOSS: 'Dignity lost: -{0}.'
-DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restored: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Your NosMate's attack level has increased! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Your NosMate's defense level has increased! +{0} -> +{1}
-DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
-DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: This doll is inadequate to NosMate's level!
-DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
-DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
-FAIRYSTONES_DIALOG_INSERT: Do you want to insert {0} to your {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Fairy Stone insertion failed.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Fairy Stone insertion succeeded!
+ARENA_INFO_ASK_ENTER: Vuoi accedere all'arena individuale? Ti costerà {0} oro.
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Possiedi già una Carta di Debito Cuarry nel tuo inventario.
+BANK_DIALOG_ASK_DEPOSIT: Vuoi depositare {0}000 oro nel tuo conto?
+BANK_DIALOG_ASK_WITHDRAW: Vuoi prelevare {0}000 gold dal tuo conto?
+BANK_INFO_NOT_ENOUGH_FUNDS: Non hai oro sufficiente.
+BANK_INFO_TOO_MUCH_GOLD: Hai troppo oro!
+BANK_LOG_OPEN_BANK: Benvenuto in banca! Come posso aiutarti?
+BANK_LOG_WITHDRAW_BANK: '{0}000 oro prelevato.'
+BANK_MESSAGE_BALANCE: Possiedi {0} oro sul tuo conto.
+BANK_MESSAGE_DEPOSIT: Depoitati {0}000 oro sul tuo conto.
+BANK_MESSAGE_MAX_GOLD_REACHED: Hai raggiunto il limite massimo di oro!
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondi in eccesso sono stati trasferiti sul conto.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Articolo aggiunto al NosBaazar.
+BAZAAR_INFO_ITEM_CHANGED: Acquisto impossibile, l'articolo è stato venduto o ha cambiato di prezzo.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar è in manutenzione.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Hai raggiunto il limite massimo di articoli in lista.
+BAZAAR_INFO_NEEDS_MEDAL: Non hai la medaglia del NosMercante.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Il prezzo dell'articolo eccede il limite.
+BAZAAR_INFO_RESYNC: Non è stato possibile cambiare il prezzo dell'articolo. Riprova.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Vuoi cambiare il prezzo dell'articolo? Ti costerà {0} oro.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Articolo aggiunto al NosBaazar.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prezzo dell'articolo aggiornato.
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attenzione, potresti essere attaccato dai mostri mentre visiti il Bazaar!
+BLACKLIST_INFO_ADDED: Giocatore aggiunto alla Lista Nera!
+BLACKLIST_INFO_BLOCKED: Questo giocatore ti ha bloccato!
+BLACKLIST_INFO_BLOCKING: Hai bloccato questo giocatore!
+BLACKLIST_INFO_DELETED: Giocatore eliminato dalla Lista Nera!
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Nessun effetto grazie all'Immunità.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: Hai perso l'effetto di {0}.
+BUFF_CHATMESSAGE_SIDE_EFFECTS: Subisci gli effetti negativi di {0}.
+BUFF_CHATMESSAGE_UNDER_EFFECT: Sei sotto l'effetto di {0}
+CELLON_SHOUTMESSAGE_FAIL: Il Cellon è scomparso perché hai fallito.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello del Cellon è troppo alto per questo oggetto.
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Gli slot accessori sono già pieni!
+CELLON_SHOUTMESSAGE_SUCCESS: Opzione aggiunta.
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: Questo nome è già stato preso!
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: Caratteri non validi!
+CLASS_NAME_ADVENTURER: Avventuriero
+CLASS_NAME_ARCHER: Arciere
+CLASS_NAME_MAGE: Mago
+CLASS_NAME_MARTIAL_ARTIST: Artista Marziale
+CLASS_NAME_SWORDSMAN: Spadaccino
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Hai cambiato la lingua in:'
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: La tua lingua attuale è 
+COMMANDS_CHATMESSAGE_AVAILABLE: 'Comandi disponibili:'
+COMMANDS_CHATMESSAGE_HELP: '[Comandi di aiuto]'
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: Non documentato.
+COMMANDS_CHATMESSAGE_USAGES: '[Comando d'uso]'
+COMMEND_CHATMESSAGE_COOLDOWN: Puoi lodare un giocatore al giorno.
+COMMEND_CHATMESSAGE_GIVEN: Hai lodato il giocatore {0}.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Devi aspettare {0} minuti prima di lodare qualcuno.
+COMMEND_CHATMESSAGE_NOT_MINLVL: Puoi lodare qualcuno solo se raggiungi il Lv30.
+COMMEND_CHATMESSAGE_RECEIVED: Il giocatore {0} ti ha lodato.
+DIGNITY_CHATMESSAGE_LOSS: 'Dignità persa: -{0}.'
+DIGNITY_CHATMESSAGE_RESTORE: 'Dignità recuperata: +{0}.'
+DOLL_MESSAGE_MATE_ATTACK_FAIL: Il livello di attacco del tuo NosMate non è cambiato.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Il livello di attacco del tuo NosMate è aumentato! +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: Il livello di difesa del tuo NosMate non è cambiato.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Il livello di difesa del tuo NosMate è aumentato! +{0} -> +{1}
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre marionette.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nella zona designata.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Questa marionetta è inadeguata per il tuo NosMate!
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: La cifra non è corretta.
+DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti caduti in mappa per lasciarne altri.
+FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} al tuo {1}?
+FAIRYSTONES_MESSAGE_INSERT_FAILED: L'inserzione della tua Pietra Fatata è fallita.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'inserzione della tua Pietra Fatata ha avuto successo!
 FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: You cannot insert Fairy Stones into Heroic Level equipment.
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: This Fairy Stone's level is too high for this item.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: You can't insert any more Fairy Stones in this item.
