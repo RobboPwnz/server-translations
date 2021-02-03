@@ -88,35 +88,35 @@ DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti caduti in mappa per lasciarne alt
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} al tuo {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: L'inserzione della tua Pietra Fatata è fallita.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'inserzione della tua Pietra Fatata ha avuto successo!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: You cannot insert Fairy Stones into Heroic Level equipment.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: This Fairy Stone's level is too high for this item.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: You can't insert any more Fairy Stones in this item.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: You can only insert Fairy Stones to weapons and armors.
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
-FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: This family member has already that authority.
-FAMILY_DIALOG_ASK_DISMISS_FAMILY: Do you want to dismiss your family? It can't be undone.
-FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Are you sure you want to join the family?
-FAMILY_DIALOG_ASK_JOIN_FAMILY: You have been invited to family {0} by {1}, do you want to join?
-FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: You can't change your own authority.
-FAMILY_DIALOG_CANNOT_KICK_YOURSELF: You can't kick yourself from family.
-FAMILY_DIALOG_CHANGE_HEAD: Do you want to change the head of the family?
-FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Family head cannot leave the family without dismissing it completly.
-FAMILY_INFO_ALREADY_IN_FAMILY: You are already in a family.
-FAMILY_INFO_ASK_FAMILY_LEAVE: Do you want to leave the family?
-FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: You can't give others the same authority.
-FAMILY_INFO_CREATION_GROUP_REQUIRED: You must be in a group to create a family.
-FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family.
-FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Deputies limit reached.
-FAMILY_INFO_FULL: The family is full.
-FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Someone in the group is a member of a family already!
-FAMILY_INFO_GROUP_NOT_FULL: You can't create a family without a full group!
-FAMILY_INFO_INVITATION_NOT_ALLOWED: You don't have permission to invite players!
-FAMILY_INFO_INVITATION_REFUSED: The player refused family invitation.
-FAMILY_INFO_KEEPER_LIMIT_REACHED: Assistants limit reached.
-FAMILY_INFO_LEAVE: You left the family.
-FAMILY_INFO_NAME_ALREADY_USED: This family name is already in use!
-FAMILY_INFO_NO_FAMILY: You don't have a family.
-FAMILY_INFO_NO_FAMILY_RIGHT: You don't have sufficient rights.
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Non puoi inserire Pietre Fatate nell'equipaggiamento Eroico.
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello di questa Pietra Fatata è troppo alto.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Non puoi più inserire Pietre Fatate in questo oggetto.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Puoi inserire Pietre Fatate solo in armi e armature.
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha effettuato l'accesso!'
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Questo membro della famiglia è già autorizzato.
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: Vuoi davvero sciogliere la famiglia? Quest'azione non può essere annullata.
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Sei sicuro di voler entrare nella famiglia?
+FAMILY_DIALOG_ASK_JOIN_FAMILY: Sei stato invitato nella famiglia {0} da {1}, vuoi entrare?
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Non puoi cambiare i tuoi stessi permessi.
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Non puoi essere cacciato dalla famiglia.
+FAMILY_DIALOG_CHANGE_HEAD: Vuoi cambiare il capofamiglia?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Il capofamiglia non può lasciarla senza scioglierla prima.
+FAMILY_INFO_ALREADY_IN_FAMILY: Sei già in una famiglia.
+FAMILY_INFO_ASK_FAMILY_LEAVE: Vuoi lasciare la famiglia??
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Non puoi dare agli altri gli stessi permessi.
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Devi essere in un gruppo per creare una famiglia.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Qualcuno nel tuo gruppo è già membro di una famiglia.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Hai raggiunto il limite di guardiani.
+FAMILY_INFO_FULL: La famiglia è piena.
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Qualcuno nel tuo gruppo è già membro di una famiglia!
+FAMILY_INFO_GROUP_NOT_FULL: Non puoi creare una famiglia senza essere in un gruppo pieno!
+FAMILY_INFO_INVITATION_NOT_ALLOWED: Non hai il permesso di invitare giocatori nella famiglia!
+FAMILY_INFO_INVITATION_REFUSED: Il giocatore ha rifiutato l'invito.
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Hai raggiunto il limite di Assistenti.
+FAMILY_INFO_LEAVE: Hai lasciato la famiglia.
+FAMILY_INFO_NAME_ALREADY_USED: Questo nome è già stato usato!
+FAMILY_INFO_NO_FAMILY: Non hai una famiglia.
+FAMILY_INFO_NO_FAMILY_RIGHT: Non hai i permessi sufficienti.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: No family warehouse found.
 FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
 FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
